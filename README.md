@@ -37,7 +37,7 @@ Nos especializamos en tecnologías modernas que permiten velocidad de lanzamient
 
 ---
 
-## 📫 Contacto & Colaboraciones
+##  Contacto & Colaboraciones
 
 ¿Tenés un proyecto en mente o necesitás escalar tu equipo técnico? **Hablemos.**
 
